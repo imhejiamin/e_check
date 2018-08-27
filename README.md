@@ -1,7 +1,9 @@
 # e_check
-实习项目截图安卓截图展示
-GPS:高德GPS
-图表：echarts
+实习项目安卓客户端部分截图展示（无公开源码） 
+
+
+GPS:高德GPS  
+图表：echarts  
 
 ![1](https://github.com/imhejiamin/e_check/blob/master/pics/total/1.png)
 
