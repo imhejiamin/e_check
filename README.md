@@ -1,5 +1,15 @@
 # e_check
-实习项目截图功能展示（保留源码权限）
+实习项目截图安卓截图展示
+GPS:高德GPS
+图表：echarts
 
+![1](https://github.com/imhejiamin/e_check/blob/master/pics/total/1.png)
 
+![2](https://github.com/imhejiamin/e_check/blob/master/pics/total/2.png)
+
+![3](https://github.com/imhejiamin/e_check/blob/master/pics/total/3.png)
+
+![4](https://github.com/imhejiamin/e_check/blob/master/pics/total/4.png)
+
+![5](https://github.com/imhejiamin/e_check/blob/master/pics/total/5.png)
 
